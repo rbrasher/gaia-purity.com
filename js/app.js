@@ -13,7 +13,7 @@ app.config(['$routeProvider', function($routeProvider) {
             controller: 'PageCtrl'
         })
         .when('/contact', {
-            templateUrl: 'partials/contact.html',
+            templateUrl: 'partials/index.html',
             controller: 'PageCtrl'
         })
         .when('/terms', {
