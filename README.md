@@ -1,2 +1,2 @@
 # gaia-purity.com
-product site
+product site for gaia-purity.com
